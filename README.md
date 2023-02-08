@@ -1,0 +1,2 @@
+# Bitcoin-Network-TrustFactor-Prediction
+Aims to improve OTC Trading Credibility through the use of multiple SOTA Graph Neural Network models, with the trade data available to us in the form of a transaction graph
