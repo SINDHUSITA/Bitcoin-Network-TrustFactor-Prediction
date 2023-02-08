@@ -15,6 +15,7 @@ Hence, we utilize the computation from Graph Neural Networks to calculate this t
 
 ## Methods
 We developed multiple Graph Neural Networks using state-of-art algorithms using the dataset and proposed trust-factor evaluations. We compare each of these models and evaluate them in terms of various metrics like accuracy, f1 score, ROC curve, class distribution, etc. For all the methods, we experimented with various combinations of the activation functions from tanh, relu, and sigmoid. The reported model results are the best results each of the models could give based on the hyper-parameters, number of epochs, number of channels, and activation function.
+
 ![image](https://user-images.githubusercontent.com/52288575/217594684-ce800ded-c803-49b2-bffb-000720045837.png)
 
-*Contributors: @sindhusita & @shriram-illini
+*Contributors: [sindhusita](https://github.com/sindhusita) & [shriram-illini](https://github.com/shriram-illini)*
